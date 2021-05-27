@@ -12,13 +12,13 @@ Types of Responses
 7. Text             ::txt
 """
 
-keys_Action={"picture":["Video","videos/AyushSpandan.mp4"], 
+keys_Action={"picture":["Video","AyushSpandan.mp4"], 
              "spread":["img","coronamap"], 
              
              "infect":["imgSpch","People of all ages can be infected by the new coronavirus (2019-nCoV). Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus.","risk"],
              "transmission":["imgSpch","Coronavirus disease spreads primarily through contact with an infected person when they cough or sneeze. It also spreads when a person touches a surface or object that has the virus on it, then touches their eyes, nose, or mouth.","transmit"], 
              
-             "virus":["Video","videos/Aneesh & Yash.mp4"],
+             "virus":["Spch","viruses"],
              "corona":["Spch","Coronavirus disease (COVID-19) is an infectious disease caused by a new virus."],             
              
              "stop":["stop"],
